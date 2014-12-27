@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "A Clean Blog Theme by Start Bootstrap"
+description: "random thoughts from a 0xCAFED00D"
 header-img: "img/home-bg.jpg"
 ---
 
@@ -10,13 +10,19 @@ header-img: "img/home-bg.jpg"
         <h2 class="post-title">
             {{ post.title }}
         </h2>
+		<p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+	</a>
+	<div class="post-excerpt">
         {% if post.subtitle %}
         <h3 class="post-subtitle">
-            {{ post.subtitle }}
+           {{ post.subtitle }}
+        </h3>
+		{% else %}
+        <h3 class="post-subtitle">
+           {{ post.excerpt }}
         </h3>
         {% endif %}
-    </a>
-    <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+	<div>
 </div>
 <hr>
 {% endfor %}

@@ -83,7 +83,7 @@ hr.small {
 		background: transparent;
 		border-bottom: 1px solid transparent;
 		.navbar-brand {
-			color: white;
+			color: #DDD;
 			padding: 20px;
 			&:hover,
 			&:focus {
@@ -93,7 +93,7 @@ hr.small {
 		.nav {
 			li {
 				a {
-					color: white;
+					color: #DDD;
 					padding: 20px;
 					&:hover,
 					&:focus {
@@ -167,7 +167,7 @@ hr.small {
 	.post-heading,
 	.page-heading {
 		padding: 100px 0 50px;
-		color: white;
+		color: #FEC40A;
 		@media only screen and (min-width: 768px) {
 			padding: 150px 0;
 		}
@@ -231,13 +231,10 @@ hr.small {
 // Post Preview Pages
 
 .post-preview {
-	> a {
+	> .post-excerpt {
 		color: @gray-dark;
-		&:hover,
-		&:focus {
-			text-decoration: none;
-			color: @brand-primary;
-		}
+		text-decoration: none;
+		color: @brand-primary;
 		> .post-title {
 			font-size: 30px;
 			margin-top: 30px;

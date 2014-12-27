@@ -64,7 +64,7 @@ hr.small {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: #DDD;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -72,7 +72,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: #DDD;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -141,7 +141,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: white;
+  color: #FEC40A;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -205,20 +205,17 @@ hr.small {
     font-size: 30px;
   }
 }
-.post-preview > a {
+.post-preview > .post-excerpt {
   color: #404040;
-}
-.post-preview > a:hover,
-.post-preview > a:focus {
   text-decoration: none;
   color: #0085a1;
 }
-.post-preview > a > .post-title {
+.post-preview > .post-excerpt > .post-title {
   font-size: 30px;
   margin-top: 30px;
   margin-bottom: 10px;
 }
-.post-preview > a > .post-subtitle {
+.post-preview > .post-excerpt > .post-subtitle {
   margin: 0;
   font-weight: 300;
   margin-bottom: 10px;

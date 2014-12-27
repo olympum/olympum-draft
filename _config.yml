@@ -1,16 +1,16 @@
 # Site settings
-title: Clean Blog
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+title: Bruno's Journal
+email: brunofr@olympum.com
+description: "Bruno Fernandez-Ruiz's Journal"
+url: "http://www.olympum.com"
+production_url : http://www.olympum.com
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+permalink: /:categories/:title
+twitter_username: olympum
+github_username:  olympum
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
