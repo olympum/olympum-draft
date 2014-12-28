@@ -3,7 +3,7 @@ layout: post
 title: Sun Microsystems set to buy MySQL
 date: 2008-01-16 14:35:24.000000000 +00:00
 categories:
-- Java
+- Internet
 tags: []
 status: publish
 type: post
