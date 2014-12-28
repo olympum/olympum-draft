@@ -3,7 +3,7 @@ layout: post
 title: Open APIs Attract Postini and Avaya to Google Apps
 date: 2007-02-26 21:33:33.000000000 +00:00
 categories:
-- SaaS
+- cloud
 tags: []
 status: publish
 type: post

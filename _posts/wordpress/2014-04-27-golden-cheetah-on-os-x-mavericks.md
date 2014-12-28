@@ -3,7 +3,7 @@ layout: post
 title: Golden Cheetah on OS X Mavericks
 date: 2014-04-27 08:01:05.000000000 +01:00
 categories:
-- Other
+- sports
 tags: []
 status: publish
 type: post

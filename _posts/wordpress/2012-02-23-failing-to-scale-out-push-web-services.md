@@ -3,7 +3,7 @@ layout: post
 title: Failing to Scale Out Push Web Services
 date: 2012-02-23 05:28:11.000000000 +00:00
 categories:
-- Future
+- http
 tags: []
 status: publish
 type: post

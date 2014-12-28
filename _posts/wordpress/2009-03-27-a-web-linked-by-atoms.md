@@ -3,7 +3,7 @@ layout: post
 title: A Web Linked by Atoms
 date: 2009-03-27 13:14:57.000000000 +00:00
 categories:
-- Future
+- http
 tags: []
 status: publish
 type: post

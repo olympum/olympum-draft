@@ -3,7 +3,7 @@ layout: post
 title: Web 2.0, The New Old?
 date: 2006-08-21 22:13:00.000000000 +01:00
 categories:
-- SaaS
+- cloud
 tags: []
 status: publish
 type: post

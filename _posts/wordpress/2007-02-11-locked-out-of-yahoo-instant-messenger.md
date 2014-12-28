@@ -3,7 +3,7 @@ layout: post
 title: Locked out of Yahoo! Instant Messenger
 date: 2007-02-11 18:11:53.000000000 +00:00
 categories:
-- Yahoo!
+- internet
 tags: []
 status: publish
 type: post

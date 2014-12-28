@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Home Backup Strategy
+title: My Home Backup Strategy
 date: 2011-12-09 06:07:53.000000000 +00:00
 categories:
-- Future
+- util
 tags: []
 status: publish
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: Google News Limited Comments, Not Cool, Not Evil, Just Careless
 date: 2007-08-09 08:27:18.000000000 +01:00
 categories:
-- Google
+- internet
 tags: []
 status: publish
 type: post

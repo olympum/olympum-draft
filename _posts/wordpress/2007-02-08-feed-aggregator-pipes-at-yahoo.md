@@ -3,7 +3,7 @@ layout: post
 title: 'Feed aggregator: Pipes at Yahoo!'
 date: 2007-02-08 13:10:44.000000000 +00:00
 categories:
-- Yahoo!
+- internet
 tags: []
 status: publish
 type: post

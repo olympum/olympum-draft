@@ -3,7 +3,7 @@ layout: post
 title: Increased Transparency Shows Value of YPN
 date: 2007-02-26 21:40:29.000000000 +00:00
 categories:
-- Yahoo!
+- internet
 tags: []
 status: publish
 type: post

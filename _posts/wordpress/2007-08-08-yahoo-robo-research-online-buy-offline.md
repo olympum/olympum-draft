@@ -3,7 +3,7 @@ layout: post
 title: 'Yahoo! ROBO: Research Online, Buy Offline'
 date: 2007-08-08 09:10:30.000000000 +01:00
 categories:
-- Yahoo!
+- internet
 tags: []
 status: publish
 type: post

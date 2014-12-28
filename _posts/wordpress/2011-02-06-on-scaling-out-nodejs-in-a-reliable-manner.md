@@ -3,7 +3,7 @@ layout: post
 title: On Scaling out NodeJS in a Reliable Manner
 date: 2011-02-06 18:15:03.000000000 +00:00
 categories:
-- Future
+- http
 tags: []
 status: publish
 type: post

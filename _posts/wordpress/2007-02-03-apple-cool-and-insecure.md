@@ -3,7 +3,7 @@ layout: post
 title: Apple Cool and Insecure
 date: 2007-02-03 14:14:51.000000000 +00:00
 categories:
-- Security
+- Linux
 tags: []
 status: publish
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: The future of hosted software
 date: 2006-09-08 07:47:00.000000000 +01:00
 categories:
-- SaaS
+- cloud
 tags: []
 status: publish
 type: post

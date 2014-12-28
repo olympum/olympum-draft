@@ -3,7 +3,7 @@ layout: post
 title: Andrea Ayuso Morillo, Au Pair Vanished in Thin Air
 date: 2008-02-21 23:10:09.000000000 +00:00
 categories:
-- Other
+- Personal
 tags: []
 status: publish
 type: post

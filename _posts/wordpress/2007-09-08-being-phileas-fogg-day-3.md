@@ -3,7 +3,7 @@ layout: post
 title: Being Phileas Fogg, Day 3
 date: 2007-09-08 23:35:04.000000000 +01:00
 categories:
-- Other
+- Personal
 tags: []
 status: publish
 type: post

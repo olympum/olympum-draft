@@ -3,7 +3,7 @@ layout: post
 title: Will XMPP be the messaging middleware for the REST Web?
 date: 2008-12-30 11:04:21.000000000 +00:00
 categories:
-- Future
+- imps
 tags: []
 status: publish
 type: post

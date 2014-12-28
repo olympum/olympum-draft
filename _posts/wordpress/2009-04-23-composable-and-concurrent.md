@@ -3,7 +3,7 @@ layout: post
 title: Composable and Concurrent
 date: 2009-04-23 15:00:31.000000000 +01:00
 categories:
-- Future
+- Architecture
 tags: []
 status: publish
 type: post

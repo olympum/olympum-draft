@@ -3,7 +3,7 @@ layout: post
 title: Microsoft's Guidance on SaaS
 date: 2007-02-13 07:33:16.000000000 +00:00
 categories:
-- SaaS
+- cloud
 tags: []
 status: publish
 type: post

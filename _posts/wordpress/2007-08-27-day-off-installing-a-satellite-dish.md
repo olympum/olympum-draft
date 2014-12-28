@@ -3,7 +3,7 @@ layout: post
 title: Day Off, Installing a Satellite Dish
 date: 2007-08-27 08:08:38.000000000 +01:00
 categories:
-- Other
+- Personal
 tags: []
 status: publish
 type: post

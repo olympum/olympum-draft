@@ -3,7 +3,7 @@ layout: post
 title: 'The B2B of Mashups: Mashboards'
 date: 2006-09-14 08:45:00.000000000 +01:00
 categories:
-- Future
+- internet
 tags: []
 status: publish
 type: post

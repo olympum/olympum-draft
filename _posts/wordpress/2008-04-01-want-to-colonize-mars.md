@@ -3,7 +3,7 @@ layout: post
 title: Want to colonize Mars?
 date: 2008-04-01 09:50:12.000000000 +01:00
 categories:
-- Google
+- random
 tags: []
 status: publish
 type: post

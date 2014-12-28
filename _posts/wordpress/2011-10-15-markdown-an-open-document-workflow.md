@@ -3,7 +3,7 @@ layout: post
 title: Markdown, An Open Document Workflow
 date: 2011-10-15 14:27:55.000000000 +01:00
 categories:
-- Future
+- util
 tags: []
 status: publish
 type: post

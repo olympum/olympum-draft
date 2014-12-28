@@ -3,7 +3,7 @@ layout: post
 title: Rails, Django, CodeIgniter, Symfony Performance Compared
 date: 2007-02-17 09:18:18.000000000 +00:00
 categories:
-- Frameworks
+- Java
 tags: []
 status: publish
 type: post

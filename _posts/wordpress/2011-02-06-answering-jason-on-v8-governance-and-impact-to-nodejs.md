@@ -3,7 +3,7 @@ layout: post
 title: Answering Jason on V8 governance and impact to NodeJS
 date: 2011-02-06 05:30:44.000000000 +00:00
 categories:
-- Future
+- http
 tags: []
 status: publish
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: Ruby on Rails and J2EE
 date: 2006-01-05 16:40:00.000000000 +00:00
 categories:
-- Frameworks
+- Java
 tags: []
 status: publish
 type: post

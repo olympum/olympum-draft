@@ -3,7 +3,7 @@ layout: post
 title: Moved to hosted Wordpress
 date: 2007-02-03 11:08:08.000000000 +00:00
 categories:
-- Other
+- Personal
 tags: []
 status: publish
 type: post

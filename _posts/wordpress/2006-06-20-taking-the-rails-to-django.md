@@ -3,7 +3,7 @@ layout: post
 title: Taking the Rails to Django
 date: 2006-06-20 21:08:00.000000000 +01:00
 categories:
-- Frameworks
+- Java
 tags: []
 status: publish
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: Oops, Trying out Yahoo!'s OpenID V2
 date: 2008-01-19 15:48:29.000000000 +00:00
 categories:
-- Yahoo!
+- internet
 tags: []
 status: publish
 type: post

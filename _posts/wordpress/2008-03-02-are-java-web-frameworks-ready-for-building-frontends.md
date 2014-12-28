@@ -3,7 +3,7 @@ layout: post
 title: Are Java web frameworks ready for building frontends?
 date: 2008-03-02 21:02:31.000000000 +00:00
 categories:
-- Frameworks
+- Java
 tags: []
 status: publish
 type: post

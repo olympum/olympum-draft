@@ -4,7 +4,7 @@ title: Extremely Aggresive Pricing Makes Google Apps Premier Edition Sexy to Sma
   and Medium Sized Businesses
 date: 2007-02-22 23:03:52.000000000 +00:00
 categories:
-- SaaS
+- cloud
 tags: []
 status: publish
 type: post

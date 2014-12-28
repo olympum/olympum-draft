@@ -3,7 +3,7 @@ layout: post
 title: Relocating to the US
 date: 2009-09-26 07:11:40.000000000 +01:00
 categories:
-- Future
+- Personal
 tags: []
 status: publish
 type: post

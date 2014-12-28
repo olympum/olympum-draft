@@ -3,7 +3,7 @@ layout: post
 title: Skype, Ebay and Google
 date: 2007-02-07 08:28:15.000000000 +00:00
 categories:
-- Yahoo!
+- internet
 tags: []
 status: publish
 type: post

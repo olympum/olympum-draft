@@ -3,7 +3,7 @@ layout: post
 title: The Linked-Atom Web
 date: 2010-05-14 05:02:08.000000000 +01:00
 categories:
-- Internet
+- http
 tags: []
 status: publish
 type: post

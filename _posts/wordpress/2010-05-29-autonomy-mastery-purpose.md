@@ -3,7 +3,7 @@ layout: post
 title: Autonomy, Mastery, Purpose
 date: 2010-05-29 04:41:31.000000000 +01:00
 categories:
-- Other
+- random
 tags: []
 status: publish
 type: post

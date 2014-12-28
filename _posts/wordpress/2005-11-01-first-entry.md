@@ -3,7 +3,7 @@ layout: post
 title: First Entry
 date: 2005-11-01 11:03:00.000000000 +00:00
 categories:
-- Other
+- Personal
 tags: []
 status: publish
 type: post
@@ -19,7 +19,7 @@ author:
   last_name: Fernandez-Ruiz
 ---
 
-Not the first blog, and likely not the last one. Too many tasks, and short of time. Priorities change. And here I am on a new blog, tired of running my own. I don't like the chores blogging, and I hate the whole 'hoo, haa, I got trizillion hits'.
+Not my first blog, and likely not the last one. Sadly I lost my posts since 2000. Too many tasks, and short of time. Priorities change. And here I am on a new blog, tired of running my own. I don't like the chores blogging, and I hate the whole 'hoo, haa, I got trizillion hits'.
 
 <p>Anyway, to the point, the objective of this blog is to prepare short articles for my forthcoming book on performance analysis for web applications.</p>
 <p>And who am I you may wonder? I usually get referred as being a 'technical architect', some call me a 'performance architect'. On my title now it says 'enterprise architect - operational engineering'. Ney. Software and systems are nowhere close to been at the level of maturity of engineering, including the 'real' architecture, so I would hardly classify myself as an 'architect' anyway. I like drawing and painting though, and I am pretty decent, I think.</p>

@@ -3,7 +3,7 @@ layout: post
 title: Transactions in Rails
 date: 2006-05-29 14:18:00.000000000 +01:00
 categories:
-- Frameworks
+- Java
 tags: []
 status: publish
 type: post

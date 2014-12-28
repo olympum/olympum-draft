@@ -3,7 +3,7 @@ layout: post
 title: Twisted Web IMPS Echo Client
 date: 2009-01-13 14:36:54.000000000 +00:00
 categories:
-- Other
+- imps
 tags: []
 status: publish
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: To SaaS or not to SaaS, a Utility-Based Decision
 date: 2007-03-03 08:30:40.000000000 +00:00
 categories:
-- SaaS
+- cloud
 tags: []
 status: publish
 type: post

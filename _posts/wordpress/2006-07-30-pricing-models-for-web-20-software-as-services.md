@@ -3,7 +3,7 @@ layout: post
 title: Pricing Models for Web 2.0 Software as Services
 date: 2006-07-30 10:05:00.000000000 +01:00
 categories:
-- SaaS
+- cloud
 tags: []
 status: publish
 type: post

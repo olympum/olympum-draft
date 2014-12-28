@@ -3,7 +3,7 @@ layout: post
 title: Why Video-On-Demand Streaming in Airlines Sucks
 date: 2008-08-19 01:59:11.000000000 +01:00
 categories:
-- Other
+- random
 tags: []
 status: publish
 type: post

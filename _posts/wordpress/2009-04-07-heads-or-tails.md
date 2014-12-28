@@ -3,7 +3,7 @@ layout: post
 title: Heads or Tails
 date: 2009-04-07 11:43:40.000000000 +01:00
 categories:
-- Future
+- internet
 tags: []
 status: publish
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: Wicket and EJB3
 date: 2006-06-04 13:16:00.000000000 +01:00
 categories:
-- Frameworks
+- Java
 tags: []
 status: publish
 type: post

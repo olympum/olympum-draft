@@ -3,7 +3,7 @@ layout: post
 title: On Language Polyglotism
 date: 2009-04-22 22:54:19.000000000 +01:00
 categories:
-- Future
+- Architecture
 tags: []
 status: publish
 type: post

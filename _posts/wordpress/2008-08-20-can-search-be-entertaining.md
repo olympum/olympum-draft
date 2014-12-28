@@ -3,7 +3,7 @@ layout: post
 title: Can search be entertaining?
 date: 2008-08-20 10:18:58.000000000 +01:00
 categories:
-- Yahoo!
+- internet
 tags: []
 status: publish
 type: post

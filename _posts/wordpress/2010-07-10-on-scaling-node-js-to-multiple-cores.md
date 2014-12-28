@@ -3,7 +3,7 @@ layout: post
 title: On Scaling node.js to Multiple Cores
 date: 2010-07-10 15:29:11.000000000 +01:00
 categories:
-- Future
+- http
 tags: []
 status: publish
 type: post

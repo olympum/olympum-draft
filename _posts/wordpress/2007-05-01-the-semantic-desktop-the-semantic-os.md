@@ -3,7 +3,7 @@ layout: post
 title: The Semantic Desktop, The Semantic OS
 date: 2007-05-01 20:29:50.000000000 +01:00
 categories:
-- Future
+- internet
 tags: []
 status: publish
 type: post

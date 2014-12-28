@@ -3,7 +3,7 @@ layout: post
 title: Convert Mailbox from Mail.app to Microsoft Outlook 2011 in Lion
 date: 2012-11-09 07:45:14.000000000 +00:00
 categories:
-- Architecture
+- util
 tags: []
 status: publish
 type: post
