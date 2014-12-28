@@ -78,7 +78,7 @@ back from the left, to the guards' surprise.
 The run ended up being 16.61km long. This had been a fantastic run
 that I truly enjoyed. And I will be back to Morocco for more runs!
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/230551501/embed/0a3f09f7fc33f073f826e7fc0c742066059db273'></iframe>
+![Terrain map]({{ site.base_url }}/assets/marrakech-map.png)
 
 It took me 1 hour 19 minutes to cover the route, and although the pace
 wasn't great (4:47 min/km), I had a cold and did not want to die of a
