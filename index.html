@@ -10,17 +10,17 @@ header-img: "img/home-bg.jpg"
         <h2 class="post-title">
             {{ post.title }}
         </h2>
-		<p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
 	</a>
+	<p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
 	<div class="post-excerpt">
         {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <div class="post-subtitle">
            {{ post.subtitle }}
-        </h3>
+        </div>
 		{% else %}
-        <h3 class="post-subtitle">
+        <div class="post-subtitle">
            {{ post.excerpt }}
-        </h3>
+        </div>
         {% endif %}
 	<div>
 </div>

@@ -4,7 +4,7 @@
 // Global Components
 
 body {
-	.serif;
+	.sans-serif;
 	font-size: 20px;
 	color: @gray-dark;
 }
@@ -25,7 +25,6 @@ h3,
 h4,
 h5,
 h6 {
-	.sans-serif;
 	font-weight: 800;
 }
 
@@ -231,20 +230,21 @@ hr.small {
 // Post Preview Pages
 
 .post-preview {
-	> .post-excerpt {
-		color: @gray-dark;
-		text-decoration: none;
-		color: @brand-primary;
+	> a {
 		> .post-title {
-			font-size: 30px;
+			color: @brand-primary;
 			margin-top: 30px;
 			margin-bottom: 10px;
 		}
-		> .post-subtitle {
-			margin: 0;
-			font-weight: 300;
-			margin-bottom: 10px;
-		}
+	}
+	> .post-subtitle {
+		margin: 0;
+		font-weight: 300;
+		margin-bottom: 10px;
+	}
+	> .post-excerpt {
+		color: @gray-dark;
+		text-decoration: none;
 	}
 	> .post-meta {
 		color: @gray;
@@ -253,7 +253,6 @@ hr.small {
 		margin-top: 0;
 		> a {
 			text-decoration: none;
-			color: @gray-dark;
 			&:hover,
 			&:focus {
 				color: @brand-primary;

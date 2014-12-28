@@ -5,9 +5,11 @@ category : sports
 author: Bruno Fernandez-Ruiz
 title: A Long Run in Marrakech
 ---
+
 For our yearly pre-Christmas family trip this year, we decided to
 visit the beautiful and vibrant city of Marrakech in Morocco. On the
 last day of our trip I got the chance to do a long run from the hotel.
+
 Upon asking at reception for routes to run, the hotel staff remindeded
 me that it might not be safe to run outside and that it would better
 if I run inside the resort grounds, going around a 1.5km loop.

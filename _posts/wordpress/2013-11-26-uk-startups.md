@@ -16,20 +16,26 @@ author:
   last_name: Fernandez-Ruiz
 ---
 
-Since I moved to London, now over half a year ago, I have been talking
-to entrepreneurs and investors about London, and not just London folks
-but also investors in Israel, the East Coast and Silicon Valley. I
-have also met with many companies across Europe in the context of
-corporate development at Yahoo. Although London has many of the
-ingredients required for becoming the next startup hub, it also has
+London has many of the
+ingredients required for becoming the next startup hub. But it also has
 many structural problems that will prevent it from growing as fast as
-other centers, such as Tel Aviv. I moved to London excited about
+other centers, such as Tel Aviv.
+
+I moved to London in early 2013 excited about
 creating a strong product development centre for Yahoo, in one of the
 hottest startup cities in the world. I am still hopeful we can still
 shape London to become such hub. But it requires a significant and non
 trivial amount of work from the UK government. This is a critical
 issue for the future of any economic power in the world that wants to
 be a global leader in the 21st century.
+
+Since I moved to London, now over half a year ago, I have been talking
+to entrepreneurs and investors about London, and not just London folks
+but also investors in Israel, the East Coast and Silicon Valley. I
+have also met with many companies across Europe in the context of
+corporate development at Yahoo. There are two large themes that shape
+why I think London requires substantial investment in order to become
+a leading startup innovation center.
 
 First, technology is eating the world and software specifically is
 creating a revolution of how we understand the agricultural,
