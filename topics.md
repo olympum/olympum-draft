@@ -2,6 +2,7 @@
 layout: page
 title: "Topics"
 description: "Topics I Cover"
+header-img: "img/topics.jpg"
 ---
 
 {% for category in site.categories %}
