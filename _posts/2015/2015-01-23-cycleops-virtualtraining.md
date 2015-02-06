@@ -191,7 +191,12 @@ The structured workout functionality in VT is quite standard. Pick the
 workout, pick the media / video file, and get going. For some of the
 workouts, the video is automatically selected based on the "original"
 file name, e.g. if the you have Sufferfest video on the iPad, VT will
-find it and use it.
+find it and use it. The video and the resistance changes are supposed
+to be in sync, so that when the Sufferfest says GO at 7.5/10.0 RPE, VT
+should adjust the power to 100% of FTP, or 3.0/10.0 at 56% FTP. However,
+even for the official workouts (from the user `vtap`), I have seen that
+the video and the resistance changes can be upto 30 seconds off, which
+renders it unusable.
 
 With workouts with video, all you really get is the video and power
 (target % of FTP and actual % of FTP). I would hope to see cadence,
@@ -242,4 +247,3 @@ very competitive with competing solutions. I would like to see some of
 the issues I have experienced addressed, e.g. video-route syncing,
 power drop-outs, etc. but overall, it's a good program and I am happy
 to use it.
-
