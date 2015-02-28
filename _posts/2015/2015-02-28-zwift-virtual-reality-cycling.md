@@ -46,7 +46,7 @@ up the app (which I found rather annoying):
 
 Once we have signed up we can start to customize our player. As any
 good game, there are items that we only unlock later in the game, as a
-loyatly reward for playing and sticking around.
+loyalty reward for playing and sticking around.
 
 ![customize]({{ site.base_url }}/assets/zwift/customize.png)
 
@@ -73,12 +73,12 @@ app runs very smoothly.
 ![riding3]({{ site.base_url }}/assets/zwift/riding3.png)
 
 The experience is beautiful and the gaming aspects are very well taken
-care of. On the right hand side, we see the players ahead and behind
-us. We also see the power to weight ratio for other players, which is
-very nice to know to decide if or who to draft. There are also
-trophies along the ride, in the form of jerseys we get immediately. I
+care of. On the right hand side, we see the players that are just
+ahead and behind us. We also see their power to weight ratio, which is
+useful to know for deciding if or who to draft. There are trophies
+along the ride in the form of jerseys we get to wear immediately. I
 could unlock climbing, sprint and lap, not sure if there are more.
-This competitive side of the game really kept me going, trying to beat
+This competitive side of the game really kept me going trying to beat
 the other players!
 
 I had a few issues with ANT+ though, which is not unusual nor specific
@@ -113,7 +113,7 @@ showed fine in Strava:
 
 ![strava]({{ site.base_url }}/assets/zwift/strava.png)
 
-I am sure there is some excitement from the novely of the game. But
+I am sure there is some excitement from the game's novelty. But
 overall, this was one of the most enjoyable indoor rides I have ever
 done and definitely worth the subscription whenever it comes out of
 beta. I am not sure though I am ready to fully give up the video
