@@ -27,12 +27,12 @@ taking screenshots for blogging ...
 
 ![GLUT]({{ site.base_url }}/assets/zwift/glut.png)
 
-Anyway, back to cycling and the game ... The first time we launch Zwift
-we are asked to signup for the service. The screen is straight
+Anyway, back to cycling and the game ... The first time we launch
+Zwift we are asked to signup for the service. The screen is straight
 forward, except for the "Promo Code" field in the form, which I assume
-is for when the app goes out of Beta. I would hidden this field for the
-time being, and only show it once the app goes out of beta and the
-promo code actually means something. Or if it means something now,
+is for when the app goes out of Beta. I would have hidden this field
+for the time being, and only show it once the app goes out of beta and
+the promo code actually means something. Or if it means something now,
 hovering tips would be nice.
 
 ![signup]({{ site.base_url }}/assets/zwift/signup.png)
