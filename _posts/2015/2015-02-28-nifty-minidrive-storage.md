@@ -65,7 +65,7 @@ reads:
 
 Overall I am very impressed with the little Nifty Minidrive. Although
 there are other storage expansion options out there, I did not find
-any other that was a easy and as elegant to use as the Minidrive. If
+any other that was as easy and as elegant to use as the Minidrive. If
 you need a bit more storage on your laptop, or perhaps a separate
-drive for whatever purposes, I highly recommend it.
+drive for whatever purposes, I highly recommend the Nifty Minidrive.
 
