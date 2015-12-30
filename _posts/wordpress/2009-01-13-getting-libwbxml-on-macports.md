@@ -53,7 +53,7 @@ Error: Status 1 encountered during processing.
 <p>Finally, moving onto <code>pywbxml</code>. It seems the only maintained <code>pywbxml</code> code is from the <a href="http://www.synce.org/">synce</a> folks.</p>
 <ol>
 <li><a href="http://downloads.sourceforge.net/synce/pywbxml-0.1.tar.gz">Download pywbxml from sourceforge</a>.</li>
-<li>Enter the <a href="http://www.olympum.com/imps/twisted-virtual-environment-goodness/">virtualenv</a>:
+<li>Enter the <a href="/imps/twisted-virtual-environment-goodness/">virtualenv</a>:
 <pre><code>$ source ~/Sites/python/imps/bin/activate
 </code></pre>
 </li>
