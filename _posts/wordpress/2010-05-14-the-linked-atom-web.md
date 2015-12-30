@@ -116,7 +116,7 @@ Publishing Format</a>. With Atom, the
 focus is on identity and linking resources. The actual content is hidden
 away.</p>
 <p>But within the context of semantic annotations, Atom has its
-<a href="http://www.olympum.com/future/a-web-linked-by-atoms/">shortcomings</a>. Rather
+<a href="/http/a-web-linked-by-atoms/">shortcomings</a>. Rather
 than abusing Atom, perhaps we need to create a separate, specialized
 out-of-line resource descriptor. I call such format the "Linked-Atom". There
 are a few differences between Atoms and Linked-Atoms. Whereas the atom is a
@@ -153,15 +153,15 @@ constitutes a collection.</li>
                 "id": "http://example.com/bar.html",
                 "rev_id": 2,
                 "type": "text/html",
-                "name": "bar" 
+                "name": "bar"
             },
             {
                 "id": "http://example.com/toto.png",
                 "rev_id": 1,
                 "type": "image/png",
-                "name": "toto" 
+                "name": "toto"
             }
-        ] 
+        ]
     }
 </code></pre>
 <p>A more compact representation of the atom is perhaps more interesting for

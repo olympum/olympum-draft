@@ -28,7 +28,7 @@ off massively, probably because event based programming of server-side applicati
 complex programming paradigm for the average programmer than a thread- or process-per-request. In in
 a way, we have had not enough pressure to move, yet. Things would just work, reasonable well.
 
-<p>But I believe we are finally at a turning point. Multi-core architectures imply <a href="http://www.olympum.com/future/composable-and-concurrent/">the end of the free
+<p>But I believe we are finally at a turning point. Multi-core architectures imply <a href="/architecture/composable-and-concurrent/">the end of the free
 lunch</a>. It is happening. Writing highly
 concurrent server-side applications that are able to scale linearly as the number of cores increases
 is something that we should be preparing for.</p>

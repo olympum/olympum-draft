@@ -24,10 +24,10 @@ author:
 Jason Hoffman (Chief Scientist, Founder at Joyent) has posted some <a
 href="http://joyeur.com/2011/02/05/on-brunos-concern-about-the-current-coupling-of-node-js-and-v8/">good
 questions to me</a>, based on my original <a
-href="http://www.olympum.com/future/nodejs-to-v8-or-not-to-v8/">nodejs
+href="/http/nodejs-to-v8-or-not-to-v8/">nodejs
 and V8</a> post. Let me summarise Jason's questions and comments.
 
-<strong>Update (2011/9/11)</strong>: this post is picking up again 8 months later, I've <a href="http://www.olympum.com/architecture/ahead-with-node-js-and-google-v8/">written an update</a> as of where we stand.
+<strong>Update (2011/9/11)</strong>: this post is picking up again 8 months later, I've <a href="/http/ahead-with-node-js-and-google-v8/">written an update</a> as of where we stand.
 
 There are three key messages in Jason's response:
 

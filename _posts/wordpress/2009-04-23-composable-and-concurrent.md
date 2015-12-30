@@ -19,7 +19,7 @@ author:
   last_name: Fernandez-Ruiz
 ---
 
-On my previous entry <a href="/future/on-language-polyglotism/">on the
+On my previous entry <a href="/architecture/on-language-polyglotism/">on the
 present and future of programming languages</a>, I briefly covered on
 the reasons I think it is important to be looking at this problem now.
 I though I would expand the discussion.

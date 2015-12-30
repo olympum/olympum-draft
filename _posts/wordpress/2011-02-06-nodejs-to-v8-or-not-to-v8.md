@@ -22,7 +22,7 @@ author:
 ---
 
 I have been saying for a while that <a
-href="http://www.olympum.com/internet/why-node-js-matters/">server-side
+href="/http/why-node-js-matters/">server-side
 Javascript matters</a>. We, at Yahoo!, see <a
 href="http://developer.yahoo.com/blogs/ydn/posts/2010/11/on-deck-yuiconf-2010-with-a-focus-on-yui-yql-and-node-js/">a
 bright future in server-side Javascript</a> and are making a big
@@ -36,7 +36,7 @@ If you have not watched <a href="http://www.yuiblog.com/blog/2010/08/30/yui-thea
 Javascript</a>,
 I recommend you do that first before reading further into this post.
 
-<strong>Update:</strong> Jason Hoffman (Chief Scientist, Founder of Joyent) has written a <a href="http://joyeur.com/2011/02/05/on-brunos-concern-about-the-current-coupling-of-node-js-and-v8/">very good response</a> to this post. Obviously I owe him some responses, which is <a href="http://www.olympum.com/future/answering-jason-on-v8-governance-and-impact-to-nodejs/">on a separate post</a>.
+<strong>Update:</strong> Jason Hoffman (Chief Scientist, Founder of Joyent) has written a <a href="http://joyeur.com/2011/02/05/on-brunos-concern-about-the-current-coupling-of-node-js-and-v8/">very good response</a> to this post. Obviously I owe him some responses, which is <a href="/http/answering-jason-on-v8-governance-and-impact-to-nodejs/">on a separate post</a>.
 
 <p>NodeJS is currently tightly coupled to Google's V8 engine. V8 was not designed
 as a server-side engine, but as a browser-based engine. Furthermore, V8 was

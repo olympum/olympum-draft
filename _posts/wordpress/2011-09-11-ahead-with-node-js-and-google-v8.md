@@ -22,7 +22,7 @@ author:
 
 It has been 10 months since I posted about Google V8. But somebody re-started
 <a href="http://news.ycombinator.com/item?id=2982684">a thread again on Hacker News</a>
-about <a href="http://www.olympum.com/future/answering-jason-on-v8-governance-and-impact-to-nodejs/">my old blog
+about <a href="/http/answering-jason-on-v8-governance-and-impact-to-nodejs/">my old blog
 post</a>.
 So now I am compelled to briefly say where we are at.
 
