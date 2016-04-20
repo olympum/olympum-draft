@@ -20,3 +20,6 @@ collections:
   essays:
     output: true
     permalink: /essays/:path/
+
+gems:
+  - jekyll-paginate
