@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category : linux
+category : Linux
 author: Bruno Fernandez-Ruiz
 title: Linux Desktop on a Dell XPS 13
 ---
@@ -38,7 +38,10 @@ Macports or Homebrew, Mac is not Linux. And I like Debian's APT.
 Second, I wanted "better" hardware than the Macbook Pro Retina 15 I am using.
 Although it might seem strange, I am not that impressed with the MBPr15. Yes,
 it's a fine design, and yes, it all works. Battery life is sub-standard and the
-way the kernel drives the NVIDIA card is buggy.
+way the kernel drives the NVIDIA card is buggy. And as much as Apple's next MBP
+might turn up to be amazing, one must remember that there is a huge price
+premium you pay for it. For the price of a new MBPr15 I can buy two and half
+Dell XPS 13.
 
 Third, I wanted to see whether using Linux would be different, easier, this
 time. Would it still be a pain and lot of work to run Linux on a laptop, like it
