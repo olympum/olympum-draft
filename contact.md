@@ -1,6 +1,7 @@
 ---
 layout: page
 description: "random thoughts from a 0xCAFED00D"
+public: false
 header-img: "img/home-bg.jpg"
 ---
 
