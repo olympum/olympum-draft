@@ -155,14 +155,13 @@ the
 This has been a long post, but there are some important points I think
 here, at least for us at Team WBR leading group rides:
 
-* Setting a relative watts / kg target is the most efficient and
-  accurate way of managing the group in Zwift. Speed and
-  absolute power don't correlate well as w/kg for all terrains.
-* At the end of the day, w/kg rule, not your weight or absolute power,
-  even on the flats. This hopefully removes the whole lighter vs
-  heavier rider debate; if a ride is at 3 w/kg, it does not matter
-  what you or the rider leader weight, as long as both rider at 3
-  w/kg.
-* Heavier riders that can generate big watts have a significant
-  advantage on the climbs, compared to lighter riders doing less watts
-  but the same w/kg.
+* At a set w/kg, all other things being equal, the heavier rider is always at an
+  advantage (i.e. the lighter riders don't have it easier). This is specially
+  true as the road goes up, but also applies to descents and event flats.
+* In a dead flat road, weight still has a significant impact, and w / kg is
+  still the only proper way to set a target, not watts.
+* Height affects your CdA significantly. 10cm extra will set you back 30 secs in
+  Watopia Flat.
+
+When setting a target for a group ride that encourages keeping the group
+together, the most effective metric is watts / kg, not watts or speed.
