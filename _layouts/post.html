@@ -6,7 +6,9 @@ layout: default
 {% if page.header-img %}
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{{ page.header-img }}')">
 {% else %}
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/img/{{ page.categories.first }}.jpg')">
+<header class="intro-header" style="background-image: url('{{
+                                    site.baseurl }}/img/{{
+                                    page.categories.first | downcase }}.jpg')">
 {% endif %}
     <div class="container">
         <div class="row">
