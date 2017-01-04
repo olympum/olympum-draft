@@ -10,7 +10,7 @@ how fast we go. Do the same laws apply on Zwift, so that lighter
 riders go faster on the climbs on Zwift?
 
 We hear from heavier riders how lighter riders are at an advantage as
-soon as the road goes up, and viceversa, ligter riders claim they
+soon as the road goes up, and viceversa, lighter riders claim they
 can't compete with heaver riders on the flats. That would be the case
 IRL, is it so on Zwift?
 
@@ -61,13 +61,13 @@ expected:
    300w, this difference is 6.8%. I expected the rider's weight not to
    impact segment times, since this is a flat segment where only aero
    and absolute power should matter.
-1. Across the board, <u>there is aproximately 5 secs penalty per 10cm
+1. Across the board, <u>there is approximately 5 secs penalty per 10cm
    of additional height</u>. I expected some impact of height, as the
    rider will have a harder time getting tucked into a good aero
    position, but the penalty is more than I thought.
 1. There is a very strange anomaly here for 300w and 80kg. The 180cm
    rider is actually faster than the 170cm one, and the 190cm is
-   aproximately the same as the 170cm. I ran the tests twice, and the
+   approximately the same as the 170cm. I ran the tests twice, and the
    results seem consistent so I am not sure why this is happening.
 
 <img src="{{ site.base_url }}/assets/2017/01/aero.png" style="width:700px"/>
