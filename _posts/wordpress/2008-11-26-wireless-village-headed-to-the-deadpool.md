@@ -3,7 +3,7 @@ layout: post
 title: Wireless Village Headed to the Deadpool
 date: 2008-11-26 15:03:49.000000000 +00:00
 categories:
-- imps
+- IMPS
 tags: []
 status: publish
 type: post
