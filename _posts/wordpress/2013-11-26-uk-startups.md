@@ -3,7 +3,7 @@ layout: post
 title: Much Improvement Required in the UK Startup Ecosystem
 date: 2013-11-26 07:45:14.000000000 +00:00
 categories:
-- policy
+- Policy
 tags: []
 status: publish
 type: post
