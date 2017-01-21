@@ -3,7 +3,7 @@ layout: post
 title: We are here to stay
 date: 2008-02-14 11:18:55.000000000 +00:00
 categories:
-- personal
+- Personal
 tags: []
 status: publish
 type: post
