@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category : Sports
+category : sports
 author: Bruno Fernandez-Ruiz
 title: Are lighter riders faster on Zwift?
 ---
