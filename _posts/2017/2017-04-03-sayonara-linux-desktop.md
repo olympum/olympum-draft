@@ -5,7 +5,7 @@ category : Linux
 author: Bruno Fernandez-Ruiz
 title: Sayonara Linux Desktop
 ---
-Six months into using Linux on the desktop daily on a Dell XPS 13, having moved from OS X due to hardware issues, I am sad to report that I am moving back to OS X.
+Six months into using [Linux on the desktop daily on a Dell XPS 13](/linux/linux-on-dell-xps-13), having moved from OS X due to hardware issues, I am sad to report that I am moving back to OS X.
 
 Listen Linux, no hard feelings, it was fun, it was almost good, it felt liberating, and it was a great learning experience. But I am tired.
 
