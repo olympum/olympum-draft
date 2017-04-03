@@ -11,7 +11,13 @@ business opportunities driven by technology. I highly enjoy coding,
 and the mental state it drives. In fact, I don't think it's possible
 to remain a technologist without coding on a regular basis.
 
-I currently work at Yahoo as a Senior Fellow, focusing in
+I am currently running Nexar together with my co-founder, Eran Shir,
+making driving on the roads safer, today. We are applying computer
+vision, machine learning, deep learning, and generally Artificial
+Intelligence, to make safer driving accessible to all 1.2 billion
+vehicles out there, regardless of make, model, or age.
+
+Previously, I used to work at Yahoo as a Senior Fellow, focusing in
 computational advertising, search and recommender systems.
 
 I started off programming with a Sinclair Spectrum 48 (ZX80/ZX81)
