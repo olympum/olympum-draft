@@ -9,7 +9,7 @@ header-img: "img/topics.jpg"
 <div class="post-preview">
 	<a name="{{ category | first }}">
         <h2 class="post-title">
-			{{ category | first }}
+			{{ category | first | capitalize }}
         </h2>
 	</a>
 	{% for posts in category %}
