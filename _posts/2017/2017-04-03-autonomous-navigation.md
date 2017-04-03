@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category : Technology
+category : Autonomy
 author: Bruno Fernandez-Ruiz
 title: Autonomous Navigation
 ---

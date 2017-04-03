@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category : Policy
+category : Autonomy
 author: Bruno Fernandez-Ruiz
 title: The modern case for V2V
 ---
