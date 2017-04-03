@@ -29,6 +29,6 @@ I want to let you know that you are not alone however. I installed Windows 10 on
 
 What can I say? I am sorry. I am disappointed. I am saddened. I so wanted things to work out between us. I really did. I would have loved to be able to use a Linux desktop at work and at home. Every single day, every single hour. But I just can't. I can't afford to waste time trying to configure and reconfigure every single submodule.
 
-As for you Linux, it is not goodbye though. I will be hanging out with your son, the Linux server, of which I have had a really good experience. But when it comes to my desktop, I am back to my old Mac and OS X. Apple fixed my hardware issues with the Mac by replacing the logig board, so I will be selling my Dell XPS 13 and its docking station. Sad, I know, but that's life sometimes.
+As for you Linux, it is not goodbye though. I will be hanging out with your son, the Linux server, of which I have had a really good experience. But when it comes to my desktop, I am back to my old Mac and OS X. Apple fixed my hardware issues with the Mac by replacing the logic board, so I will be selling my Dell XPS 13 and its docking station. Sad, I know, but that's life sometimes.
 
 Sayonara, Linux Desktop.
