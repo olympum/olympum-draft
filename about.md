@@ -14,7 +14,7 @@ to remain a technologist without coding on a regular basis.
 I am currently running Nexar together with my co-founder, Eran Shir,
 making driving on the roads safer, today. We are applying computer
 vision, machine learning, deep learning, and generally Artificial
-Intelligence, to make safer driving accessible to all 1.2 billion
+Intelligence, to make safer driving accessible to the 1.2 billion
 vehicles out there, regardless of make, model, or age.
 
 Previously, I used to work at Yahoo as a Senior Fellow, focusing in
