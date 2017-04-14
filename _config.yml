@@ -5,7 +5,7 @@ description: "Bruno Fernandez-Ruiz's Journal"
 url: "http://www.olympum.com"
 production_url : http://www.olympum.com
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-permalink: /:categories/:title
+permalink: /:categories/:title/
 twitter_username: olympum
 github_username:  olympum
 
@@ -13,13 +13,23 @@ github_username:  olympum
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+theme: minima
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
+exclude:
+  - less
+  - node_modules
+  - Gruntfile.js
+  - package.json
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 # Collections:
 collections:
   essays:
     output: true
-    permalink: /essays/:path/
-
-gems:
-  - jekyll-paginate
+    permalink: /:collection/:path/
