@@ -4,7 +4,6 @@ email: brunofr@olympum.com
 description: "Bruno Fernandez-Ruiz's Journal"
 url: "http://www.olympum.com"
 production_url : http://www.olympum.com
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 permalink: /:categories/:title/
 twitter_username: olympum
 github_username:  olympum
@@ -27,6 +26,9 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - .rvmrc
+  - .rbenv-version
+  - changelog.md
 
 # Collections:
 collections:
