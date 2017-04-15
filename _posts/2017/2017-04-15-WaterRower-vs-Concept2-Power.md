@@ -5,7 +5,11 @@ category : sports
 author: Bruno Fernandez-Ruiz
 title: WaterRower vs Concept2 - A Power Study
 ---
-When I bought my WaterRower back in 2013, I spent time researching which erg rower to get for my home use. After narrowing it down to the WaterRower and the Concept2, I ended up choosing the WaterRower. There are many comparisons online between the two so I will not go into details here. But to save you a few hours of reading:
+There are many comparisons online between the two leading erg rowing machines, the Concept 2 and the WaterRower. There are many "soft" reasons discussed, but how do the two erg compare when it comes to pushing top watts? As a data-oriented athlete, I set myself to figure this out.
+
+<img src="{{ site.base_url }}/assets/2017/04/rowers.png"/>
+
+When I bought my WaterRower back in 2013, I spent time researching which erg rower to get for my home use. After narrowing it down to the WaterRower and the Concept2, I ended up choosing the WaterRower. Let me save you a few hours of researching forums, articles and blogs. These are the key "soft" differences between the ergs:
 
 * The C2 resistance comes from a fan moving air; the WR resistance comes from a paddle moving water.
 * The C2 resistance is linear and allows pushing as many watts as your muscles and heart will let you; the WR resistance is non-linear, and as you row harder you generate less incremental watts to the point of being impossible to generate more power. This is a big deal for athletes, but less of a concern for general fitness folks.
@@ -15,13 +19,15 @@ When I bought my WaterRower back in 2013, I spent time researching which erg row
 * Adjusting the dampening (volume of air or water moved per stroke) in the C2 takes 2 seconds; in the WR you need to add and remove water and takes minutes.
 * The C2 looks like a gym machine; the WR looks like a beautiful piece of home furniture.
 
-We went for the WaterRower for home, since I would have plenty of chances of using C2s at the gym and whilst traveling.
+Despite being interested in a rower for proper training, and not just basic fitness, we still decided to buy a WaterRower for our home use. This made sense, at least at the time, since I had plenty of opportunities of using C2s at the gym at work and in hotels whilst traveling.
 
-Because of the reasons above, the C2 data readings are trusted across the community, whereas the WR readings are considered bogus. Since I row on the WR at home, and on C2s whilst I travel, I really wanted to know how do these two rowers compare power wise.
+When it comes to data, the data readings from any C2 machine are trusted across the community. In fact, using the Concept2 Utility application it is possible to automatically upload any session from a C2 rower equipped with a PM3, PM4 or PM5 monitor to the Concept2 Online Logbook, a community and global ranking of rowers. In contrast, the WR readings are considered bogus, and there is no software support, no community and no ranking for times on WR.
 
-Comparing power curves is a tricky business. Ideally, one should compare all-out 2k efforts from a group of athletes both on the WR and the C2. I did not have such a group, nor enough 2k samples from myself.
+Since I row on the WR at home, and on C2s whilst I travel, my training log is full of power readings from both rowers. I really want to be able to compare apples to apples, and knowing how your power meters stack against each other is critically important.
 
-The second possibility to compare power is to chart the critical power curves for both rowers. Unfortunately, I only have stream data (FIT/TCX) from the WaterRower (via my hacked RaspberryPi to read from the USB connection), as the C2 PM3/PM4/PM5 only records interval by interval summaries, rather than as a data stream (reminder to self, hack the C2 ...).
+Comparing power curves across this two rowers is a tricky business. Ideally, I should have a reference curve from a trusted power meter. Unfortunately, fitting an external power meter to either a WR or a C2 is not possible. I could also compare all-out 2k efforts from a group of athletes both on the WR and the C2. But I do not have such a group, nor I have enough 2k samples from myself to run a proper comparison.
+
+The second possibility to compare power is to chart the critical power curves for both rowers. Unfortunately, I only have stream data (FIT/TCX) from the WaterRower (via my hacked RaspberryPi to read from the USB connection), as the C2 PM3/PM4/PM5 only records interval by interval summaries, rather than as a data stream (reminder to self, I must also hack the C2 ...).
 
 Although not ideal, a good approximation of the power curves is to use heart rate to look at longer efforts, over 20 minutes long, rowing across UT2, UT1 and AT zones. I looked for rowing sessions from the past 6 months and plotted the average power and average heart rates. I then looked for the curve inflection point (using the same rationale as a Conconi test in cycling to estimate the anaerobic threshold).
 
