@@ -25,7 +25,7 @@ The second possibility to compare power is to chart the critical power curves fo
 
 Although not ideal, a good approximation of the power curves is to use heart rate to look at longer efforts, over 20 minutes long, rowing across UT2, UT1 and AT zones. I looked for rowing sessions from the past 6 months and plotted the average power and average heart rates. I then looked for the curve inflection point (using the same rationale as a Conconi test in cycling to estimate the anaerobic threshold).
 
-The result is plotted below and unsurprisingly it confirms the mechanical resistance limitation that the WaterRower has. The plot infers
+The result is plotted below and unsurprisingly it confirms the mechanical resistance limitation that the WaterRower has.
 
 <img src="{{ site.base_url }}/assets/2017/04/C2vsWR-deflect.png"/>
 
