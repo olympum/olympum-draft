@@ -39,4 +39,8 @@ There are a few learnings we can derive from this chart:
 
 In both the C2 and the WR, the power output generated is the product of multiplying the moment of inertia (which is a function of the water mass or the air mass) times the angular acceleration times the angular velocity. In the WR, the moment of inertia is constant since the volume of water in the tank does not change, whereas in the C2, the volume of air is unlimited. As the angular velocity increases, the torque required to generate more power becomes much harder in the WR than in the C2.
 
-As summary, what this comparison highlights is that the power output of the WR is indeed not matching a C2, except for recreational rowing around 190w. This is probably as expected given the other design criteria of the WR, for comfort, noise, aesthetics, etc.
+As summary, I believe the power output of the WR is overall not matching the output of a C2, whether that's for consistency or for accuracy.
+
+1. For recreational rowing below 190w, the WaterRower provides a very good response and can be compared to a Concept2 rower. It is most likely though that this population is not bothered about the accuracy of the power readings from the WaterRower, for which the design criteria of the WR for comfort, noise, aesthetics, etc. are more important.
+1. For steady efforts below 230w, the WaterRower provides a consistent, yet not comparable (accurate?) response to a Concept2 rower. The WR generates too much power, way too quickly.
+1. For serious rowers able to pull 500m splits below 1:50, it is impossible to do VO2Max workouts on the WaterRower -not without increasing the stroke rate beyond what is reasonable and expected in the water, effectively destroying the rowing technique-, and the Concept2 is the only viable ERG.
