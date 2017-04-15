@@ -1,7 +1,7 @@
 # Site settings
 title: Bruno's Journal
 email: brunofr@olympum.com
-description: "Bruno Fernandez-Ruiz's Journal"
+description: "Bruno Fernandez-Ruiz's - Yet Another Triathlete CTO"
 url: "http://www.olympum.com"
 production_url : http://www.olympum.com
 permalink: /:categories/:title/
