@@ -6,7 +6,6 @@ author: Bruno Fernandez-Ruiz
 title: WaterRower vs Concept2 - A Power Study
 ---
 There are many comparisons online between the two leading erg rowing machines, the Concept 2 and the WaterRower. There are many "soft" reasons discussed, but how do the two erg compare when it comes to pushing top watts? As a data-oriented athlete, I set myself to figure this out.
-
 <img src="{{ site.base_url }}/assets/2017/04/rowers.png"/>
 
 When I bought my WaterRower back in 2013, I spent time researching which erg rower to get for my home use. After narrowing it down to the WaterRower and the Concept2, I ended up choosing the WaterRower. Let me save you a few hours of researching forums, articles and blogs. These are the key "soft" differences between the ergs:

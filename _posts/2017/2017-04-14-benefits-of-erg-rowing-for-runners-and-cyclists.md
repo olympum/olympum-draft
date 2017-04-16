@@ -6,6 +6,7 @@ author: Bruno Fernandez-Ruiz
 title: The benefits of rowing for runners and cyclists
 ---
 As you walk into a gym at a peak busy hour, you will likely see the cardio equipment being heavily used, be it treadmills, elliptical, spinning bikes, recumbent bicycles, ... All but one, the erg rower. Rowing machines ("ergs") seat lonely most of the time, normally only used by rowers. Even a short peak of popularity thanks to House of Cards has not made ergs popular. Which is a pity, since for triathletes, cyclists and runners, the rowing machine is probably a great piece of equipment in the gym.
+<img src="{{ site.base_url }}/assets/2017/04/erg.jpg"/>
 
 Rowing is a full body workout engaging legs, core and arms. Rowing delivers multiple benefits that are rare to find in any other discipline:
 
