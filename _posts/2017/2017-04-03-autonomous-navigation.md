@@ -6,6 +6,7 @@ author: Bruno Fernandez-Ruiz
 title: Autonomous Navigation
 ---
 “Look at that red Tesla, it looks really nice, doesn’t it?” I said as we pulled out of the school parking lot after Hugo and Celeste’s after-school tennis lesson.
+<img src="{{ site.base_url }}/assets/2017/04/tesla.jpg"/>
 
 “That’s Claudia’s car. It is so cool, it drives by itself,” said Hugo impressed by the fact that somebody else’s car was better than daddy’s.
 
