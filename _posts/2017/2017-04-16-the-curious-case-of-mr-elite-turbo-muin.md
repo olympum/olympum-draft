@@ -5,10 +5,10 @@ category : sports
 author: Bruno Fernandez-Ruiz
 title: The Curious Case of the Elite Turbo Muin and Misuro B+
 ---
-Elite's Turbo Muin is a super quiet direct-drive "classic" fluid trainer with a very smooth and progressive response. By classic Elite means it's not a "real" or a "smart" trainer, but rather that it has no resistance control and no power readings. To change resistance you gear up and down, and to get power readings we need to add a power meter. Elite however offers an optional Misuro B+ sensor for about $50 for its line of "classic" trainers which can output speed, cadence and power --the Elite Turbo Muin Smart B+ is nothing but a "classic" Turbo Muin with a built-in Misuro B+--. The question then is how good are the power numbers from a Turbo Muin with the Misuro B+?
+Elite's Turbo Muin is a super quiet direct-drive "classic" fluid trainer with a very smooth and progressive response. By classic Elite means it's not a "real" or a "smart" trainer, but rather that it has no resistance control and no power readings. To change resistance, you gear up and down, and to get power readings we need to add a power meter. Elite however offers an optional Misuro B+ sensor for about $50 for its line of "classic" trainers which can output speed, cadence and power --the Elite Turbo Muin Smart B+ is nothing but a "classic" Turbo Muin with a built-in Misuro B+--. The question then is how good are the power numbers from a Turbo Muin with the Misuro B+?
 <img src="{{ site.base_url }}/assets/2017/04/turbo-muin.jpg"/>
 
-The Misuro B+ is a dual ANT+ and Bluetooth Low-Energy (BLE) sensor that can transmit speed, cadence and power depending on the trainer that it's connected to. For the first generation Turbo Muin, the Misuro B+ only transmits power, and for later post-2015 models it also broadcasts cadence, in addition to power.
+The Misuro B+ is a dual ANT+ and Bluetooth Low-Energy (BLE) sensor that can transmit speed, cadence and power depending on the trainer that it's connected to. For the first-generation Turbo Muin, the Misuro B+ only transmits power, and for later post-2015 models it also broadcasts cadence, in addition to power.
 
 <img src="{{ site.base_url }}/assets/2017/04/misuro_b_plus.jpg"/>
 
@@ -22,9 +22,9 @@ I set myself to test the consistency and accuracy of the Misuro B+ readings for 
 
 <img src="{{ site.base_url }}/assets/2017/04/power.png"/>
 
-There are quite a few interesting findings from plotting the two power curves alongside. As an average for the whole ride, the Misuro B+ reads 245 w compared to 231 w on the Vector pedals. This difference is within the accuracy advertised by Elite.
+There are quite a few interesting findings from plotting the two power curves alongside. As an average for the whole ride, the Misuro B+ reads 245w compared to 231w on the Vector pedals. This difference is within the accuracy advertised by Elite.
 
-One interesting additional finding is that the power readings from the Misuro B+  slowly drift higher over time as the oil temperature increases and the sensor does not compensate for it.
+One interesting additional finding is that the power readings from the Misuro B+ slowly drift higher over time as the oil temperature increases and the sensor does not compensate for it.
 
 <img src="{{ site.base_url }}/assets/2017/04/temp-drift.png"/>
 
@@ -59,4 +59,4 @@ When looking at these differences through a curve plotting critical power, we se
 
 <img src="{{ site.base_url }}/assets/2017/04/cp.png"/>
 
-In summary, the Misuro B+ is a good and cheap alternative to a real power meter, yielding accurate results within 5% error for steady endurance rides below 250w, which is the sweet spot for this fluid trainer. However, for riders who want to use this trainer and sensor combination to race on Zwift, or just for those looking for something accurate and consistent in harder interval workouts, the Misuro B+ is not the solution and should be looking into a real power meter instead.
+In summary, the Misuro B+ is a good and cheap alternative to a real power meter, yielding accurate results within 5% error for steady endurance rides below 250w, which is the sweet spot for this fluid trainer. However, for riders who want to use this trainer and sensor combination to race on Zwift, or just for those looking for something accurate and consistent in harder interval workouts, the Misuro B+ is not the solution and should be considering a real power meter instead.
