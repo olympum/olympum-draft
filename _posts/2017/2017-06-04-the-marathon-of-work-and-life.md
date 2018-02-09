@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category : personal
+category : Personal
 author: Bruno Fernandez-Ruiz
 title: The Marathon of Work and Life
 ---

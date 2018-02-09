@@ -7,6 +7,9 @@ production_url : http://www.olympum.com
 permalink: /:categories/:title/
 twitter_username: olympum
 github_username:  olympum
+repository: olympum/olympum.github.io
+baseurl: ''
+github: [metadata]
 
 # Build settings
 markdown: kramdown
@@ -14,9 +17,10 @@ highlighter: rouge
 paginate: 5
 theme: minima
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-github-metadata
 
 exclude:
   - less
