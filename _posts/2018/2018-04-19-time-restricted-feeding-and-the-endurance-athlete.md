@@ -13,7 +13,7 @@ Thinking about society is all good and fine, but why do I care? There is a highe
 
 Many people do TRF/IF for weight loss (including celebrities). I think of TRF as a way to keep me healthy, not lose weight. I went from overweight (220lbs / 99kg) to healthy weight (160 lbs / 74 kg) by balancing my level of exercise and diet. This post summarizes my findings regarding the alleged health benefits of TRF, and to relate to how TRF interacts with exercise.
 
-## When rather than What
+## When Rather than What
 
 TRF is not about _what_ we eat, but _when_ we eat. In TRF, we eat the same food and amounts we would otherwise consume, but instead of eating the food over 16 hours, from dawn till dusk, and fasting for 8 hours while we sleep, we restrict eating to a relatively narrow window of 4 to 8 hours, and fast for the rest of the day. In the fitness world, the 16:8 diet introduced by Martin Berkhan of [Lean Gains](https://leangains.com/), is the most popular form of TRF, although others exist such as alternate day fasting, or restricting feeding to 500 kcal two days per week. Whatever the fast/feed protocol, in TRF the body gets the same energy and the same nutrients it would otherwise, just within a shorter time window (the _feeding period_ aka the _feast_). TRF is not a diet restricting energy or some food groups. Eating a balanced diet rich in macro-nutrients is as important as ever.
 
